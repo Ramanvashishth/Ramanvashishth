@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJ6c2h6dnJ0Z3ZsbjNmb3h3d2k2d3N6eG0zbW9qY3VlbjN1c2J5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="600">
+</p>
+
 <h1 align="center">Hi 👋, I'm Raman Vashishth</h1>
 <h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI | Excel</h3>
 
